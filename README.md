@@ -4,9 +4,7 @@ This is a website that takes context-free grammars that students have built usin
 
 I built this as a gallery of student work for [this assignment](https://docs.google.com/document/d/1Ld3np4gpDrVmVDXXdS4xg0Z5-_5ICO3Rig-dVE5M-z4/edit?usp=sharing) that I also wrote for symsys1! 
 
-Here are the winning grammars from winter 2022:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/30jhWotqxhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Here are the winning grammars from winter 2022: https://www.youtube.com/embed/30jhWotqxhA
 
 <img width="1335" alt="image" src="https://user-images.githubusercontent.com/26272095/137962447-b0131652-7d50-489a-b4a6-5661e362fec1.png">
 
